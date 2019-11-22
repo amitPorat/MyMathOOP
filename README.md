@@ -1,2 +1,2 @@
 # MyMathOOP
-This project is my OOP course project. Its implement few classes ampng them : Polynom, Monom, ETC.
+This project is my OOP course project. Its implement few Math classes among them : Polynom, Monom, ETC.
